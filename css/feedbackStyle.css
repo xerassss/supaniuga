@@ -1,0 +1,38 @@
+.feedback-section {
+    background: url(../images/homepageBG.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 160px;
+    padding-bottom: 60px;
+}
+
+
+/* card section ends here */
+.card-text {
+    font-size: 1.5rem;
+}/*feedback section starts here */
+.feedback-section .card {
+    border-radius: 1rem;
+}
+.feedback-section .dot {
+    transition: background 0.3s;
+}
+#review-card {
+    min-height: 350px;
+}
+#review-text {
+    min-height: 3rem; 
+    display: flex;
+    align-items: center;
+}
+#review-author {
+    min-height: 1rem; 
+    display: flex;
+    align-items: flex-end;
+}
+
+#review-stars {
+    min-height: 1rem;
+    display: flex;
+    align-items: flex-end;
+}

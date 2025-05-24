@@ -1,0 +1,7 @@
+.about-section {
+    background: url(../images/homepageBG.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 160px;
+    padding-bottom: 60px;
+}
